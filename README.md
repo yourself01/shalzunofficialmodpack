@@ -8,4 +8,4 @@ Curseforge modpack coming!
 ----------------------------------------------------------------
 
 
-^ html file includes all links to modfiles for those who want to use different launcher such as multimc or regular mc launcher.
+^ [html file](Shalz-modlist.html) includes all links to modfiles for those who want to use different launcher such as multimc or regular mc launcher.
