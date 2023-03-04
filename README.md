@@ -1,6 +1,3 @@
-<p>Curseforge modpack coming!<p>
-
-
 [Zip file](Shalz's_Unofficial_Survival_Modpack.zip) can be imported in curseforge manually! ([Curseforge Tutorial](https://support.curseforge.com/en/support/solutions/articles/9000196984-installing-modpacks#CurseForge-Website))
 
 
