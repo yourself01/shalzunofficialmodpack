@@ -1,4 +1,12 @@
-[Zip file](Shalz's_Unofficial_Survival_Modpack.zip) can be imported in curseforge manually! ([Curseforge Tutorial](https://support.curseforge.com/en/support/solutions/articles/9000196984-installing-modpacks#CurseForge-Website))
+You do not need this when you use Curseforge, this is for mods folder aka Forge classic users only
+This is the old modlist with non updated info
+https://pastebin.com/6Csn6gtR
+
+Updated Forge classic modlist:
+https://pastebin.com/njpR22XA
+
+Check for latest and updated releases before downloading
 
 
-[Html file](Shalz-modlist.html) includes all links to modfiles for those who want to use different launcher such as multimc or regular mc launcher.
+Tutorial video on how to add the pack to Curseforge:
+https://youtu.be/KnGFG9IFXFE
